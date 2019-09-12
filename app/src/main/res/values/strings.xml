@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FoodNowApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="orderID">Oder ID:</string>
+    <string name="food">Circle K</string>
+    <string name="map">81 Nguyễn Cửu Vân, p.17, Q.Bình Thạnh</string>
+    <string name="cash">Cash</string>
+    <string name="id">0039</string>
+</resources>
